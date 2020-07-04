@@ -8,7 +8,7 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/hello-rust/target/debug/hello-rust",
+            "program": "${workspaceFolder}/guess-game/target/debug/guess-game",
             "args": [],
             "cwd": "${workspaceFolder}"
         }
